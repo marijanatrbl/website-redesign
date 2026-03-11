@@ -1,0 +1,20 @@
+.apartment-expanded {
+  background: #fafafa;
+  margin-bottom: 16px;
+  padding: 0 16px;
+
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+
+  transition:
+    max-height 0.35s ease,
+    opacity 0.25s ease,
+    padding 0.25s ease;
+}
+
+.apartment-expanded.open {
+  max-height: 300px;
+  opacity: 1;
+  padding: 16px;
+}

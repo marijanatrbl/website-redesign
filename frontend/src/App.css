@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #0d0d0d;
+  scroll-behavior: smooth;
+  font-family: "Instrument Sans";
+}
+
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  justify-items: center;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+  text-align: center;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+h2 {
+  font-size: 64px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+nav {
+  width: 100%;
+}
