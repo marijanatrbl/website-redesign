@@ -7,14 +7,22 @@ The Triiiple Vienna Website Redesign is a full-stack web application built as my
 - Status: completed (first full-stack project)
 
 ## Screenshots
-Homepage
-![]()
-![]()
+### Homepage
+![Homepage](https://github.com/marijanatrbl/website-redesign/blob/00c2a727a35bd57adc0d90657c28f3e6100c4940/1.png)
+![Homepage about section](https://github.com/marijanatrbl/website-redesign/blob/00c2a727a35bd57adc0d90657c28f3e6100c4940/2.png)
+![Homepage explore section](https://github.com/marijanatrbl/website-redesign/blob/00c2a727a35bd57adc0d90657c28f3e6100c4940/3.png)
 
-Projects (Frontend and backend)
+### Apartments (Frontend and backend)
+![Apartment page filters](https://github.com/marijanatrbl/website-redesign/blob/e8607e7b61522c541806fa4cdbb2bc11c3423a3b/4.png)
+![Apartments](https://github.com/marijanatrbl/website-redesign/blob/00c2a727a35bd57adc0d90657c28f3e6100c4940/5.png)
+![Apartments in backend](https://github.com/marijanatrbl/website-redesign/blob/00c2a727a35bd57adc0d90657c28f3e6100c4940/6.png)
 
-Gallery (Frontend and backend)
-![]()
+#### Where to find us page
+![Find us page](https://github.com/marijanatrbl/website-redesign/blob/00c2a727a35bd57adc0d90657c28f3e6100c4940/7.png)
+
+### Inquiries (Frontend and backend)
+![Inquiry page](https://github.com/marijanatrbl/website-redesign/blob/e937cffc6663f27be1c75919f94d51f4881f2d36/8.png)
+![Inquiries in backend](https://github.com/marijanatrbl/website-redesign/blob/00c2a727a35bd57adc0d90657c28f3e6100c4940/9.png)
 
 
 ## Features
